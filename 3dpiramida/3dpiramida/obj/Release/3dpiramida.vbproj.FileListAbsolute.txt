@@ -1,0 +1,10 @@
+C:\Users\Vuzee\Desktop\visual studio projekti\Visual Studio 2013\Projects\3dpiramida\3dpiramida\bin\Release\3dpiramida.exe.config
+C:\Users\Vuzee\Desktop\visual studio projekti\Visual Studio 2013\Projects\3dpiramida\3dpiramida\bin\Release\3dpiramida.exe
+C:\Users\Vuzee\Desktop\visual studio projekti\Visual Studio 2013\Projects\3dpiramida\3dpiramida\bin\Release\3dpiramida.pdb
+C:\Users\Vuzee\Desktop\visual studio projekti\Visual Studio 2013\Projects\3dpiramida\3dpiramida\bin\Release\3dpiramida.xml
+C:\Users\Vuzee\Desktop\visual studio projekti\Visual Studio 2013\Projects\3dpiramida\3dpiramida\obj\Release\_3dpiramida.Form1.resources
+C:\Users\Vuzee\Desktop\visual studio projekti\Visual Studio 2013\Projects\3dpiramida\3dpiramida\obj\Release\_3dpiramida.Resources.resources
+C:\Users\Vuzee\Desktop\visual studio projekti\Visual Studio 2013\Projects\3dpiramida\3dpiramida\obj\Release\3dpiramida.vbproj.GenerateResource.Cache
+C:\Users\Vuzee\Desktop\visual studio projekti\Visual Studio 2013\Projects\3dpiramida\3dpiramida\obj\Release\3dpiramida.exe
+C:\Users\Vuzee\Desktop\visual studio projekti\Visual Studio 2013\Projects\3dpiramida\3dpiramida\obj\Release\3dpiramida.xml
+C:\Users\Vuzee\Desktop\visual studio projekti\Visual Studio 2013\Projects\3dpiramida\3dpiramida\obj\Release\3dpiramida.pdb
